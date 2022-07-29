@@ -17,7 +17,7 @@ and should prevent most any random attacker on your network from being able to
 ## Setup
 
 ```
-pip3 -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Install the Python dependencies; the `sslpsk` one is a little weird
